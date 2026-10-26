@@ -1,0 +1,7 @@
+package com.boat.booking;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+@SpringBootApplication
+public class BoatBookingApplication {
+ public static void main(String[] args) { SpringApplication.run(BoatBookingApplication.class, args); }
+}
